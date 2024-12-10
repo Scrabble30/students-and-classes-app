@@ -1,0 +1,5 @@
+### Get all students
+GET http://localhost:3000/students
+
+### Get all classes
+GET http://localhost:3000/classes
